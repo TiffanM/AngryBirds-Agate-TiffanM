@@ -3,4 +3,4 @@
 # Update v1.0 :
 - Adding Owl
 # Update v1.1 :
--Adding Bamteng
+- Adding Bamteng
